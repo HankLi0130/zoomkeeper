@@ -4,4 +4,4 @@ image = "img/portfolio/zoomkeeper.jpg"
 showonlyimage = true
 +++
 
-![](img/portfolio/zoomkeeper.jpg)
+![](../../img/portfolio/zoomkeeper.jpg)
