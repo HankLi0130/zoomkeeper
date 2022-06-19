@@ -1,7 +1,7 @@
 +++
 draft = false
-image = "/img/portfolio/p3.jpeg"
+image = "img/portfolio/p3.jpeg"
 showonlyimage = true
 +++
 
-![](/img/portfolio/p3.jpeg)
+![](img/portfolio/p3.jpeg)
