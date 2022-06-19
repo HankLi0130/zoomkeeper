@@ -1,0 +1,31 @@
+baseURL = 'https://hankli0130.github.io/zoomkeeper'
+languageCode = 'en-ca'
+title = 'Zoomkeeper'
+theme = 'creative-portfolio'
+
+[params]
+  style = "default"
+  description = "Zoomkeeper"
+  copyright = "&copy;2022 Zoomkeeper"
+  sidebarAbout = [
+    "The best Photographer/ Videographer in Toronto, Ontario,",
+    "Zoomkeeper - AJ"
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [params.social]
+  facebook      = "full page or profile url in facebook"
+  email         = "zoomkeeperstudio@gmail.com"
+  twitter       = "full profile url in twitter"
+  instagram     = "full profile url in instagram"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
