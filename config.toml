@@ -1,4 +1,4 @@
-baseURL = 'https://hankli0130.github.io/zoomkeeper'
+baseURL = 'https://hankli0130.github.io/zoomkeeper/'
 languageCode = 'en-ca'
 title = 'Zoomkeeper'
 theme = 'creative-portfolio'
