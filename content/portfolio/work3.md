@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/img/portfolio/p2.jpeg"
 showonlyimage = true
 +++
